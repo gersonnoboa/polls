@@ -1,0 +1,7 @@
+{
+	"python.formatting.provider": "black",
+	"files.exclude": {
+		"**/__pycache__": true
+	},
+	"python.pythonPath": "/Users/luisgersonnoboamartillo/.local/share/virtualenvs/eidola-z8qFmtHY/bin/python"
+}
